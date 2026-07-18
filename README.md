@@ -2,6 +2,9 @@
 
 An AI-powered chatbot that answers COVID-19 related questions in natural language. Built with Python and Streamlit, it combines TF-IDF/FAQ-based retrieval with Google's Gemini API to generate accurate, context-grounded responses.
 
+### 🚀 Live Demo
+👉 **[Try the chatbot here](https://covidbot-f4ylrlgk8kcavgxwqwlwzf.streamlit.app/)**
+
 > ⚠️ **Disclaimer:** This chatbot is intended for educational awareness only. It is not a replacement for professional medical advice, diagnosis, or emergency services.
 
 ## Features
